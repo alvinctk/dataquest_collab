@@ -1,5 +1,5 @@
-# DataQuest Collaboration
-A repository for Dataquest collaboration among the team
+#DataQuest Collaboration
+A repository for DataQuest collaboration among the team
 
 ##Introduction
 This repository was created for various team member of DataQuest for collaboration.
