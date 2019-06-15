@@ -1,11 +1,11 @@
-# How to contribute
+#How to contribute
 
 Third-party patches are essential for keeping this collaboration going.  We want to keep it as easy as possible to contribute changes that
 get things working in your environment. There are a few guidelines that we
 need contributors to follow so that we can have a chance of keeping on
 top of things.
 
-## Getting Started
+##Getting Started
 
 * Make sure you have a [GitHub account](https://github.com/signup/free)
 * Submit a Github Issue, assuming one does not already exist.
@@ -13,7 +13,7 @@ top of things.
   * Make sure you fill in the earliest version that you know has the issue.
 * Fork the repository on GitHub
 
-## Making Changes
+##Making Changes
 
 * Create a topic branch from where you want to base your work.
   * This is usually the master branch.
@@ -28,16 +28,16 @@ top of things.
 * Make sure you have added the necessary tests for your changes.
 * Run _all_ the tests to assure nothing else was accidentally broken.
 
-## Making Trivial Changes
+##Making Trivial Changes
 
-### Documentation
+###Documentation
 
 For changes of a trivial nature to comments and documentation, it is not
 always necessary to create a new issue in Github. In this case, it is
 appropriate to start the first line of a commit with '(doc)' instead of
 a ticket number.
 
-## Submitting Changes
+##Submitting Changes
 
 * Push your changes to a topic branch in your fork of the repository.
 * Submit a pull request to the repository.
